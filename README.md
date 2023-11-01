@@ -1,1 +1,1 @@
-# CaptionCraft
+# CaptionVerse
