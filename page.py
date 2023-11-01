@@ -16,7 +16,7 @@ model.compile(loss='binary_crossentropy', optimizer='adam')
 tokenizer = pickle.load(open('models/tokenizer.pickle','rb'))
 max_length = 34
 
-st.title("CaptionVerse")
+st.title("CaptionWiz")
 
 file = st.file_uploader("Upload a file", type=["jpg", "png", "jpeg"])
 
